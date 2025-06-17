@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="GalleryLogo.png">
+</head>
+<body>
+<header>
+    <a class="offpage" href="#mainContent">Skip to main content</a>
+    <nav>
+      <img src="GalleryLogo.png" alt="">
+      <ul>
+        <li><a href="page1.html">Home</a></li>
+        <li><a href="page2.html">Art&artists</a></li>
+        <li><a href="page3.html">About us</a></li>
+      </ul>
+    </nav>
+    <h1>Current events</h1>
+  </header>
+  <main id = "mainContent">
+<h2>Urban Echoes</h2>
+    <img src="StreetArt.jpg" alt="Gallery which hosts street art style paintings">
+    <p>Urban Echoes is a bold and visceral exhibition capturing the pulse of modern cities through the lens of street artists, muralists, and urban photographers. With walls adorned in graffiti-inspired canvases, found-object installations, and candid cityscape photography, this show gives voice to stories hidden in plain sight — resistance, resilience, identity, and community. Designed to feel like a walk through back alleys and transit hubs, the gallery becomes an urban landscape where art doesn't just hang — it speaks.</p>
+<h2>Fragments of Light</h2>
+    <img src="LightArt.jpg" alt="Gallery which hosts abstract paintings">
+    <p>Step into a luminous world where abstraction meets illumination. Fragments of Light showcases a collection of contemporary artworks exploring the interplay of light, shadow, and form. From sweeping oil paintings with radiant brushstrokes to sculptural pieces that shift with the viewers movement, this exhibition invites reflection on the way light alters perception, memory, and emotion. The gallery space is curated with soft ambient lighting to heighten the immersive experience, guiding visitors through a poetic journey of radiance and obscurity.</p>
+
+  </main>
+  <footer>
+    <p>Contact us at:</p>
+    <ul>
+      <li>Phone nr.: 123.456.7890</li>
+      <li>Adress: <a href="https://maps.app.goo.gl/sy4gyEN9FDz1xg1x7">City X, Street Y, Nr. 123</a></li>
+    </ul>
+  </footer>
+
+</body>
+</html>
